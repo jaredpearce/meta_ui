@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "tools/build/docker": "git@github.com:jaredpearce/tools.build.docker.git",
+    "tools/build/semantic-release": "git@github.com:jaredpearce/tools.build.semantic-release.git"
+  }
 }
